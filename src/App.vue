@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+   <div>Visit <a style="color:red;font-size:20px;" href="https://digitvital.com/">DigitVital</a> for More Update</div>
 </template>
 
 <style scoped>
